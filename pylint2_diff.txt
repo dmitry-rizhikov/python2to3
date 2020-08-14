@@ -1,0 +1,9 @@
+--- old
++++ new
+@@ -638,5 +638,5 @@
+ E:167,56: Undefined variable 'symbolMachineIP' (undefined-variable)
+ 
+ ------------------------------------------------------------------
+-Your code has been rated at 9.55/10 (previous run: 9.58/10, -0.03)
++Your code has been rated at 9.55/10 (previous run: 9.55/10, +0.00)
+ 

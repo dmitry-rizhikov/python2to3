@@ -7,7 +7,7 @@ from run_futurize import Futurize
 from run_pylint import Pylint
 
 if __name__ == '__main__':
-    path_utils = Utils()
+    utils = Utils()
 
     pylint2 = Pylint('venv2/bin/pylint')
 
@@ -22,7 +22,7 @@ if __name__ == '__main__':
     path = '/home/dmitry/zeev-stxnet/Tools_new'
     exclude = ['External', 'AutoTestVW/VWAutomatedTesting/WorkspaceEnum/Lib']
 
-    path_utils.add_folders_to_path(dirname=path, exclude_dirs=exclude)
+    utils.add_folders_to_path(dirname=path, exclude_dirs=exclude)
 
     pylint2.run_pylint(dirname=path, out_file='pylint2_old.txt', exclude_dirs=exclude)
 

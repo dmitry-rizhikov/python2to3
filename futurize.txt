@@ -1,240 +1,344 @@
 RefactoringTool: Skipping optional fixer: idioms
 RefactoringTool: Skipping optional fixer: ws_comma
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Windows/ConvertRGBsToVWDefaultsFile/ConvertColors.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ReleaseRedirects/makeUpdateLive.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/SpanishBuildSupport/BuildSpanish.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Administration/SiteDetails.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Administration/GetMemberProperties.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/LicenseDistribution/GetVSSLicensing.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/VSSOps/GetVSSOperationParameters.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Webinar/GetWebinarSchedule.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Zope/HTTPResponse.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/AutoBuildSDK.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadBuildToS3.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/CleanOldFiles.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/AccessCheck.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/GenerateManifest.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/MoveBuildsToS3.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/WinMutex.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildSteps.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/TrimLocalBuildsMovedToS3.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UpdateLocalAutoBuild.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadBuildToS3_WithImmediate.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BranchDescFile/GenerateDescFile.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/ABCommonUtils.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/CheckForDuplicate.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/ABPerforceRelated.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/GetNewestChangelistForPath.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildOutputLocationPage/UpdateOutputLocationCache.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildOutputLocationPage/OutputLocationUtil.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildOutputLocationPage/UpdateOutputLocationPage.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/ManageSourceForJenkins.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/S3Upload.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/CreateJenkinsEmail.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/VirtualBoxControlForJenkins.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/RenameLocalizedFiles.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BurnDVDs.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildParameters.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadBuildToS3.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadPackagesDirect.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadRelease.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadVisionToS3.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/FileOpenTest.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/BackwardTranslate.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/BadFilesTest.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/util.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/automation_test_fileopen.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/IrrigationMath/util.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/IrrigationMath/IrrigationMath.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/WorkspaceEnum/CommandsTools.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/A2_HelpIDsDiff.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesPX.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RHMapCleaner.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesCPP.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/IDutil.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProcessHelpIDByRHMap.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProtectCheck.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/A0_CheckUTF8Encoding.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesPY.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProtectExtractTable.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RemoteCommands.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/dirlist.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/TranslateFiles.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RemoteCommandHost.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/ExportImages.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/DonneTest.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/eggplant_nightly.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/test_file_savedviews.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/FilesCheck/FilesCheck.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/subscribers.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/models/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/handlers/main.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/scripts/create_db.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Foundry/Tools/clean.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TriggerFileCheck_Debug.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/PeriodicSync.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/MergeReport.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CheckSNChanges.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/SyncOnSubmit.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CreatePerforceUser.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/p4gf_submit_trigger.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CreatePerforceBranch.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TestCommand.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/AutoImageTestMaster.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/DRSCalendarToForum.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/GetContentChanges.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TasksToForum.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CheckCDMasters.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/BulkFileTransferManager.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/VSSScheduleService.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/RemoveOldBuilds.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/websync.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/BFTM_OrderCenter.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TriggerFileCheck.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/UploadFTP.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/extract_docx_summary.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/extract_document_summary.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/ExtractSummaries.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/OrderCenterSchedule.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/DoxygenGenerate.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/review.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/triggerWadBuild.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/P4Agent.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Logger.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/VectorWorksAgent.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/IDEAgent.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/VectorWorksTest.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Report.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/SymbolizeCrash.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/VWClient/build.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/test_random.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/contest_lock.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/benchmark.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/contest_checkout.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/concurrent_reads.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/end_to_end_tests.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Server/run_unit_tests.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Server/test_files/copy_test_file.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/setup.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/build.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/postprocess.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/analyze_nocarbon.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/models.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/views.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/refine.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/manage.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildArchiver/BuildArchiver.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/VisualStudioUtilities.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/asar.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/RemoveSCCBindings.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/VectorVersion/VectorVersion.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildRequest/BuildRequest.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/TrelloParser.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAResources/NNAResources.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/unittests.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/buildpath.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/CompareFolderUtilities.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/lib.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/gui.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/toolbox.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/docs/build_docs.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/installerlib.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/build.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/nodes.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/examples/demo/demo.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/MailUtilities.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/archivehandler.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/manifest.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/metapackage.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/cssselect.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/doctestcompare.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/_elementpath.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/builder.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/sax.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/isoschematron/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/formfill.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/clean.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/html5parser.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_html5builder.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/soupparser.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/diff.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_diffcommand.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/defs.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_setmixin.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/ElementInclude.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/flogging.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/docs/build_docs.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/test/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/Mutex.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/DatabaseUtilities.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/RecursiveFileIterator.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/notarize.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAUnitTest/NNAUnitTest.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/SelectPackagesOfType.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/ManifestObject.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAConfigParse.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/InternetFileUtilities.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/Logging.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/NTPermissions.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildUtilities.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildUtilitiesLive.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/VWStringsManager.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNADistributors/NNADistributors.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALogging.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/JenkinsUtils.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALanguage/NNALanguage.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/PM2VWStrings.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/ResourceManager/ResourceManager.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildLocalizationFileMap.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/builddatabase.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/backends/SQLAlchemyBuildDatabase.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/element.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/dammit.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/builder/_html5lib.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/builder/_lxml.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/builder/_htmlparser.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/builder/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/__init__.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/testing.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_builder_registry.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_soup.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_lxml.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_html5lib.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_tree.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/diagnose.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNA_Codesign.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/PackUtilities.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/P4Utilities.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/VWRReader/VWRReader.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/WindowsSignUtils.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/BeautifulSoup.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/FileGroups.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/Libraries/VSSConnection.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CombineVerbosePSLogs.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsWinUtils.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/download_win_symbols.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateMacLog.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsCommonUtils.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsMacUtils.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/crashsymbolicator.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/FileExtractionUtils.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsCSVWriter.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogs.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/MacLogSymbolicator_server.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/process_sample.py
-RefactoringTool: No changes to /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogSettings.py
-RefactoringTool: Files that need to be modified:
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Windows/ConvertRGBsToVWDefaultsFile/ConvertColors.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ReleaseRedirects/makeUpdateLive.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ReleaseRedirects/SetupS3RedirectLinks.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/SpanishBuildSupport/BuildSpanish.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Administration/SiteDetails.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Administration/GetMemberProperties.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/LicenseDistribution/GetVSSLicensing.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Support/GetSupportInfo.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/VSSOps/GetVSSOperationParameters.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Webinar/GetWebinarSchedule.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Zope/HTTPResponse.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/AutoBuildSDK.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadBuildToS3.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/CleanOldFiles.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/AccessCheck.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/GenerateManifest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/MoveBuildsToS3.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/WinMutex.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildSteps.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/TrimLocalBuildsMovedToS3.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UpdateLocalAutoBuild.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadBuildToS3_WithImmediate.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BranchDescFile/GenerateDescFile.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/ABCommonUtils.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/CheckForDuplicate.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/ABPerforceRelated.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/GetNewestChangelistForPath.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildOutputLocationPage/UpdateOutputLocationCache.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildOutputLocationPage/OutputLocationUtil.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildOutputLocationPage/UpdateOutputLocationPage.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/ManageSourceForJenkins.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/S3Upload.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/CreateJenkinsEmail.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/VirtualBoxControlForJenkins.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/RenameLocalizedFiles.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BurnDVDs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildParameters.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadBuildToS3.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadPackagesDirect.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadRelease.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/FileOpenTest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/BackwardTranslate.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/BadFilesTest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/GetLatestMainline.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/util.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/automation_test_fileopen.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/IrrigationMath/util.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/IrrigationMath/IrrigationMath.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/WorkspaceEnum/CommandsTools.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/A0_Extract_HelpIDs_From_Code.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/A2_HelpIDsDiff.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesPX.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RHMapCleaner.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesCPP.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/IDutil.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProcessHelpIDByRHMap.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/HelpIDs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProtectCheck.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/A0_CheckUTF8Encoding.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesPY.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProtectExtractTable.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RemoteCommands.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/GenerateBaselineImages.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/Joins.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/NewTestTemplate.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/CopyBuild.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/dirlist.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/EncodeFileList.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RedrawPerformanceTest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/eggplant.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RenderingPerformanceTest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/DTMAT.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/EncodeTranslateFileList.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/TranslateFiles.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/SolidsPerformanceTest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/Hatch.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RemoteCommandHost.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/ExportImages.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/EncodeCrossPlatformTranslateFileList.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/DonneTest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/eggplant_nightly.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/EncodeSubsetFileList.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/HiddenLineAT.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/SolidsAT.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/SketchAT.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RunPerformanceTests.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/PerformanceFileOpen.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/Surface1A.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/CompareBaselineImages.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/test_file_savedviews.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RenderAT.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/NewTimingTestTemplate.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/FilesCheck/FilesCheck.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/setup.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/subscribers.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/tests.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/lib/JobQueue.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/lib/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/lib/helpers.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/models/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/handlers/base.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/handlers/main.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/handlers/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/scripts/create_db.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/Tools/clean.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Foundry/Tools/InstallerBuildInstrumentation.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TriggerFileCheck_Debug.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/PeriodicSync.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/MergeReport.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CheckSNChanges.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/SyncOnSubmit.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CreatePerforceUser.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/p4gf_submit_trigger.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CreatePerforceBranch.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TestCommand.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/AutoImageTestMaster.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/DRSCalendarToForum.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/setup.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/GetContentChanges.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TasksToForum.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CheckCDMasters.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/BulkFileTransferManager.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/VSSScheduleService.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/RemoveOldBuilds.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/websync.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/BFTM_OrderCenter.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TriggerFileCheck.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/UploadFTP.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/extract_docx_summary.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/extract_document_summary.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/ExtractSummaries.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/OrderCenterSchedule.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/DoxygenGenerate.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/review.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/triggerWadBuild.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/P4Agent.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Logger.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Scheduler.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/TestServer.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/VectorWorksAgent.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/IDEAgent.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/VectorWorksTest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Report.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Result.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/SymbolizeCrash.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Config.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/generate_docs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/VWClient/build.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/test_random.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/contest_lock.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/benchmark.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/contest_checkout.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/concurrent_reads.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/end_to_end_tests.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Server/run_unit_tests.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Server/generate_docs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Server/test_files/copy_test_file.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/setup.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/build.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/postprocess.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/analyze_nocarbon.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/refresh_data.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/external_models.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/models.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/tests.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/admin.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/views.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/refine.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/urls.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/settings.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/manage.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/static/admin/js/compress.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildArchiver/BuildArchiver.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildArchiver/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/VisualStudioUtilities.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/asar.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/RemoveSCCBindings.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/VectorVersion/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/VectorVersion/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/VectorVersion/VectorVersion.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildRequest/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildRequest/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildRequest/BuildRequest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/TrelloParser.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAResources/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAResources/NNAResources.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAResources/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/unittests.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/buildpath.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/CompareFolderUtilities.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/lib.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/gui.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/toolbox.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/docs/build_docs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/installerlib.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/spa.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/eng.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/fra.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/jpn.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/deu.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/zhohans.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/build.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/nodes.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/examples/demo/demo.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/examples/demo/build.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/dialogerror.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/dialogwarn.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/dialogquestion.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/icon.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/dialoginfo.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/MailUtilities.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/archivehandler.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/manifest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/metapackage.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/setup.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/cssselect.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/doctestcompare.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/_elementpath.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/builder.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/usedoctest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/sax.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/isoschematron/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/formfill.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/clean.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/builder.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/usedoctest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/html5parser.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/ElementSoup.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_html5builder.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/soupparser.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/diff.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_diffcommand.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/defs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_setmixin.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/pyclasslookup.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/ElementInclude.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/flogging.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/docs/build_docs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/test/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/TransferIndexVerification/TransferIndexVerification.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/TransferIndexVerification/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAPasswords.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/Mutex.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/DatabaseUtilities.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/TestPython.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/RecursiveFileIterator.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/notarize.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAUnitTest/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAUnitTest/NNAUnitTest.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAUnitTest/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/SelectPackagesOfType.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/ManifestObject.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAConfigParse.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/InternetFileUtilities.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/Logging.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NTPermissions.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildUtilities.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildUtilitiesLive.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/VWStringsManager.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNADistributors/NNADistributors.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNADistributors/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALogging.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/JenkinsUtils.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALanguage/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALanguage/NNALanguage.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALanguage/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/PM2VWStrings.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/ResourceManager/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/ResourceManager/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/ResourceManager/ResourceManager.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildLocalizationFileMap.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/version.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/unittests.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/builddatabase.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/backends/SQLAlchemyBuildDatabase.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/element.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/dammit.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/builder/_html5lib.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/builder/_lxml.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/builder/_htmlparser.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/builder/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/testing.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_builder_registry.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_soup.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_docs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_lxml.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_html5lib.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_tree.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_htmlparser.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/diagnose.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNA_Codesign.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/PackUtilities.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/P4Utilities.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/VWRReader/VWRReader.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/VWRReader/__init__.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/WindowsSignUtils.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/BeautifulSoup.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/FileGroups.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/Libraries/VSSConnection.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CombineVerbosePSLogs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsWinUtils.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/download_win_symbols.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateMacLog.py
+RefactoringTool: Can't parse /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsCommonUtils.py: ParseError: bad input: type=1, value=u'tarfile', context=(u' ', (69, 14))
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsMacUtils.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/crashsymbolicator.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/FileExtractionUtils.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/extract_tar_gzs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsCSVWriter.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/PrintWindowsStackTrace.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogs.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/MacLogSymbolicator_server.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/process_sample.py
+RefactoringTool: Refactored /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogSettings.py
+RefactoringTool: Files that were modified:
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Windows/ConvertRGBsToVWDefaultsFile/ConvertColors.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ReleaseRedirects/makeUpdateLive.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ReleaseRedirects/SetupS3RedirectLinks.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/SpanishBuildSupport/BuildSpanish.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Administration/SiteDetails.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Administration/GetMemberProperties.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/LicenseDistribution/GetVSSLicensing.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Support/GetSupportInfo.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/VSSOps/GetVSSOperationParameters.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Plone/Webinar/GetWebinarSchedule.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WebDevelopment/Zope/HTTPResponse.py
@@ -267,39 +371,73 @@ RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildParameters.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadBuildToS3.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadPackagesDirect.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadRelease.py
-RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/UploadScripts/UploadVisionToS3.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/FileOpenTest.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/BackwardTranslate.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/BadFilesTest.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/GetLatestMainline.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/util.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/FileOpenTest/automation_test_fileopen.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/IrrigationMath/util.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/IrrigationMath/IrrigationMath.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/WorkspaceEnum/CommandsTools.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/A0_Extract_HelpIDs_From_Code.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/A2_HelpIDsDiff.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesPX.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RHMapCleaner.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesCPP.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/IDutil.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProcessHelpIDByRHMap.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/HelpIDs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProtectCheck.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/A0_CheckUTF8Encoding.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/RunForFilesPY.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/VWAutomatedTesting/ExtractHelpIDs/ProtectExtractTable.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RemoteCommands.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/GenerateBaselineImages.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/Joins.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/NewTestTemplate.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/CopyBuild.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/dirlist.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/EncodeFileList.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RedrawPerformanceTest.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/eggplant.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RenderingPerformanceTest.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/DTMAT.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/EncodeTranslateFileList.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/TranslateFiles.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/SolidsPerformanceTest.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/Hatch.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RemoteCommandHost.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/ExportImages.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/EncodeCrossPlatformTranslateFileList.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/DonneTest.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/eggplant_nightly.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/EncodeSubsetFileList.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/HiddenLineAT.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/SolidsAT.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/SketchAT.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RunPerformanceTests.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/PerformanceFileOpen.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/Surface1A.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/CompareBaselineImages.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/test_file_savedviews.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/RenderAT.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/PythonScripts/NewTimingTestTemplate.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/AutoTestVW/FilesCheck/FilesCheck.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/setup.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/subscribers.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/tests.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/lib/JobQueue.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/lib/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/lib/helpers.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/models/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/handlers/base.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/handlers/main.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/handlers/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/FoundryWeb/foundry/scripts/create_db.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/Tools/clean.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Foundry/Tools/InstallerBuildInstrumentation.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TriggerFileCheck_Debug.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/PeriodicSync.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/MergeReport.py
@@ -311,6 +449,7 @@ RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CreatePerforce
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TestCommand.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/AutoImageTestMaster.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/DRSCalendarToForum.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/setup.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/GetContentChanges.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TasksToForum.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/CheckCDMasters.py
@@ -330,11 +469,16 @@ RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/review.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/triggerWadBuild.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/P4Agent.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Logger.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Scheduler.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/TestServer.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/VectorWorksAgent.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/IDEAgent.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/VectorWorksTest.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Report.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Result.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/SymbolizeCrash.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VectorWorksTest/Config.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/generate_docs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/VWClient/build.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/test_random.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/contest_lock.py
@@ -343,50 +487,87 @@ RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototyp
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Client/TestClient/concurrent_reads.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/end_to_end_tests.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Server/run_unit_tests.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Server/generate_docs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/ProjectSharingServerPrototype/Server/test_files/copy_test_file.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/setup.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/build.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/postprocess.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Jenkins/Vectorworks/analyze_nocarbon.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/refresh_data.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/external_models.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/models.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/tests.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/admin.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/views.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/data/refine.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/urls.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/settings.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/manage.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/VWStats/vwstats/static/admin/js/compress.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildArchiver/BuildArchiver.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildArchiver/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/VisualStudioUtilities.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/asar.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/RemoveSCCBindings.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/VectorVersion/version.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/VectorVersion/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/VectorVersion/VectorVersion.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildRequest/version.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildRequest/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildRequest/BuildRequest.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/TrelloParser.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAResources/version.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAResources/NNAResources.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAResources/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/version.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/unittests.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/buildpath.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/buildpath/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/CompareFolderUtilities.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/lib.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/gui.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/toolbox.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/version.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/docs/build_docs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/installerlib.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/spa.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/eng.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/fra.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/jpn.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/deu.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/language/zhohans.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/build.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/nodes.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/examples/demo/demo.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/examples/demo/build.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/dialogerror.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/dialogwarn.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/dialogquestion.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/icon.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/images/dialoginfo.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/MailUtilities.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/archivehandler.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/version.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/manifest.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/zpackage/metapackage.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/setup.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/cssselect.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/doctestcompare.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/_elementpath.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/builder.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/usedoctest.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/sax.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/isoschematron/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/formfill.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/clean.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/builder.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/usedoctest.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/html5parser.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/ElementSoup.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_html5builder.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/soupparser.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/diff.py
@@ -394,16 +575,25 @@ RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_diffcom
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/defs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/html/_setmixin.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/pyclasslookup.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/ElementInclude.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/flogging.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/version.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/docs/build_docs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/test/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/flogging/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/TransferIndexVerification/TransferIndexVerification.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/TransferIndexVerification/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAPasswords.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/Mutex.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/DatabaseUtilities.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/TestPython.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/RecursiveFileIterator.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/notarize.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAUnitTest/version.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAUnitTest/NNAUnitTest.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAUnitTest/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/SelectPackagesOfType.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/ManifestObject.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNAConfigParse.py
@@ -414,13 +604,21 @@ RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildUtilities.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildUtilitiesLive.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/VWStringsManager.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNADistributors/NNADistributors.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNADistributors/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALogging.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/JenkinsUtils.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALanguage/version.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALanguage/NNALanguage.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNALanguage/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/PM2VWStrings.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/ResourceManager/version.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/ResourceManager/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/ResourceManager/ResourceManager.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BuildLocalizationFileMap.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/version.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/unittests.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/builddatabase.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/builddatabase/backends/SQLAlchemyBuildDatabase.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/element.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/dammit.py
@@ -432,14 +630,18 @@ RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/testing.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_builder_registry.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_soup.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_docs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_lxml.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_html5lib.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_tree.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/__init__.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/tests/test_htmlparser.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/diagnose.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/NNA_Codesign.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/PackUtilities.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/P4Utilities.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/VWRReader/VWRReader.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/VWRReader/__init__.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/WindowsSignUtils.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/BeautifulSoup.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/Libraries/FileGroups.py
@@ -448,21 +650,97 @@ RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CombineVe
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsWinUtils.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/download_win_symbols.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateMacLog.py
-RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsCommonUtils.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsMacUtils.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/crashsymbolicator.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/FileExtractionUtils.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/extract_tar_gzs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsCSVWriter.py
+RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/PrintWindowsStackTrace.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogs.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/MacLogSymbolicator_server.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/process_sample.py
 RefactoringTool: /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogSettings.py
 RefactoringTool: Warnings/messages while refactoring:
-RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/_elementpath.py ###
-RefactoringTool: Line 62: Calls to builtin next() possibly shadowed by global binding
-RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/Libraries/lxml/_elementpath.py ###
-RefactoringTool: Line 62: Calls to builtin next() possibly shadowed by global binding
-RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/element.py ###
-RefactoringTool: Line 9: Calls to builtin next() possibly shadowed by global binding
-RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/Libraries/bs4/element.py ###
-RefactoringTool: Line 9: Calls to builtin next() possibly shadowed by global binding
+RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BuildSteps.py ###
+RefactoringTool: Line 70: could not convert: raise 'Trying to start a build step without a description!'
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 261: could not convert: raise 'Trying to end a build step when there are none in progress!'
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 264: could not convert: raise 'Trying to end a build step other than the most recently started one!'
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 278: could not convert: raise 'A build step report can\'t be generated before any steps have started!'
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/S3Upload.py ###
+RefactoringTool: Line 54: could not convert: raise "CompressFile cannot find source file."
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 58: could not convert: raise "CompressFile cannot compress directories."
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 76: could not convert: raise "CompressDirectory cannot write to the requested destination."
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/RenameLocalizedFiles.py ###
+RefactoringTool: Line 150: could not convert: raise "Mac code path is not yet tested"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 300: could not convert: raise "translations do not match other similar paths"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/AutoBuild/BurnDVDs.py ###
+RefactoringTool: Line 2511: could not convert: raise "ToBlocks failed"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2396: could not convert: raise "zip file too large to decompress"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2795: could not convert: raise "File does not match!"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2251: could not convert: raise "doVerify is not supported with public builds"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2930: could not convert: raise "need generic root support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2935: could not convert: raise "FAIURE"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 191: could not convert: raise "not an autobuild"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 1992: could not convert: raise "block totals dont match"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2029: could not convert: raise "unknowm MD5 action"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2915: could not convert: raise "unknown root"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/TestCommand.py ###
+RefactoringTool: Line 33: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/ServerScripts/OrderCenterSchedule.py ###
+RefactoringTool: Line 3142: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 7039: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 1066: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 1873: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 1958: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2068: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2193: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2221: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2864: could not convert: raise "illegal"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 2956: could not convert: raise "ExecuteStructuredCommand failure!"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 4385: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 4672: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 4891: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 5035: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: Line 5124: could not convert: raise "support"
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/Libraries/zinstaller/__init__.py ###
+RefactoringTool: Line 136: You should use a for loop here
+RefactoringTool: ### In file /home/dmitry/zeev-stxnet/Tools_new/Libraries/ManifestObject.py ###
+RefactoringTool: Line 43: could not convert: raise 'No file name defined for ManifestObject!'
+RefactoringTool: Python 3 does not support string exceptions
+RefactoringTool: There was 1 error:
+RefactoringTool: Can't parse /home/dmitry/zeev-stxnet/Tools_new/WorkstationScripts/CrashSymbolScripts/SymbolicateLogsCommonUtils.py: ParseError: bad input: type=1, value=u'tarfile', context=(u' ', (69, 14))

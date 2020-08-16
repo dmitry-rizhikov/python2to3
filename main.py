@@ -22,7 +22,7 @@ if __name__ == '__main__':
     path = '/home/dmitry/zeev-stxnet/Tools_new'
     exclude = ['External', 'AutoTestVW/VWAutomatedTesting/WorkspaceEnum/Lib']
 
-    path_utils.add_folders_to_path(dirname=path)
+    path_utils.add_folders_to_path(dirname=path, exclude_dirs=exclude)
 
     pylint2.run_pylint(dirname=path, out_file='pylint2_old.txt', exclude_dirs=exclude)
 

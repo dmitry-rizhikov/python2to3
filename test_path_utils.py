@@ -1,3 +1,4 @@
+import logging
 import os
 import shutil
 import sys
@@ -19,6 +20,8 @@ class Test(TestCase):
     diff = Diff()
 
     futurize = Futurize()
+
+    logging.basicConfig(level=logging.INFO, stream=sys.stderr)
 
     @classmethod
     def setUpClass(cls):

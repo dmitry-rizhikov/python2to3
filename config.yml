@@ -1,0 +1,4 @@
+
+python2to3:
+  path: test/folder
+  exclude:

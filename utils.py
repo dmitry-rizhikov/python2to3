@@ -24,13 +24,19 @@ class Utils:
         if folders is not None:
             folders.append(dirname)
             for subfolder in list(folders):
-                if not self.join_path(local_path=subfolder, absolut_path=dirname) in exclude_dirs:
-                    self.logger.info('appending to system path %s', subfolder)
-                    sys.path.append(subfolder)
+                if self.is_not_empty(exclude_dirs) \
+                        and self.join_path(local_path=subfolder, absolut_path=dirname) in exclude_dirs:
+                    continue
+
+                self.logger.info('appending to system path %s', subfolder)
+                sys.path.append(subfolder)
+
+    def is_not_empty(self, dir_list):
+        return not dir_list is None and isinstance(dir_list, list)
 
     def join_exclude_dirs(self, dirs, dirname):
         result = ''
-        if not dirs is None and isinstance(dirs, list):
+        if self.is_not_empty(dirs):
             for directory in dirs:
                 if not str(directory).startswith(dirname):
                     directory = self.join_path(directory, dirname)

@@ -1,8 +1,0 @@
-************* Module file1
-folder/file1.py:8:0: E0602: Undefined variable 'file1' (undefined-variable)
-************* Module file2
-folder/subfolder1/xxx/file2.py:8:0: E0602: Undefined variable 'file2' (undefined-variable)
-
-------------------------------------------------------------------
-Your code has been rated at 3.75/10 (previous run: 3.75/10, +0.00)
-

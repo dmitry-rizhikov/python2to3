@@ -214,3 +214,11 @@ fabric.properties
 
 .idea
 
+!/test/pylint2_diff.txt
+!/test/futurize.txt
+!/test/pylint3_diff.txt
+!/test/pylint2_new.txt
+!/test/pylint3_new.txt
+!/test/pylint2_old.txt
+!/test/folder/
+!/test/folder*/

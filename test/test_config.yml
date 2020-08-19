@@ -1,6 +1,6 @@
 
 python2to3:
-  path: folder
+  path: test/folder
   exclude:
     - subpath1
     - subpath2

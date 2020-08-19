@@ -14,7 +14,7 @@ from run_pylint import Pylint
 
 
 class Test(TestCase):
-    path_utils = Utils()
+    utils = Utils()
 
     pylint2 = Pylint('venv2/bin/pylint')
 
@@ -30,7 +30,6 @@ class Test(TestCase):
 
     @classmethod
     def setUpClass(cls):
-
         for p in Path("test").glob("folder*"):
             shutil.rmtree(p, ignore_errors=True)
 
@@ -53,7 +52,7 @@ class Test(TestCase):
         new_path = self.copy.copy_dir(src_path=config.get_path())
         self.assertTrue(os.path.isdir(new_path), 'Directory is not created: %s' % new_path)
 
-        self.path_utils.add_folders_to_path(dirname=new_path, exclude_dirs=config.get_excludes())
+        self.utils.add_folders_to_path(dirname=new_path, exclude_dirs=config.get_excludes())
 
         self.assertIsNotNone(sys.path.index(new_path))
         self.assertIsNotNone(sys.path.index(new_path + '/subfolder1'))
@@ -71,12 +70,24 @@ class Test(TestCase):
 
         self.assertGreater(os.path.getsize('test/pylint2_new.txt'), 0)
 
-        self.diff.diff_files(from_file='test/pylint2_old.txt', to_file='test/pylint2_new.txt', out_file='test/pylint2_diff.txt')
+        self.diff.diff_files(from_file='test/pylint2_old.txt', to_file='test/pylint2_new.txt',
+                             out_file='test/pylint2_diff.txt')
 
         self.assertGreater(os.path.getsize('test/pylint2_diff.txt'), 0)
 
         self.pylint3.run_pylint(dirname=new_path, out_file='test/pylint3_new.txt', exclude_dirs=config.get_excludes())
 
-        self.diff.diff_files(from_file='test/pylint2_new.txt', to_file='test/pylint3_new.txt', out_file='test/pylint3_diff.txt')
+        self.diff.diff_files(from_file='test/pylint2_new.txt', to_file='test/pylint3_new.txt',
+                             out_file='test/pylint3_diff.txt')
 
         self.assertGreater(os.path.getsize('test/pylint3_diff.txt'), 0)
+
+    def test_is_excluded(self):
+        self.assertFalse(self.utils.is_excluded('aaaa/bbbbb', None, 'aaaa'))
+        self.assertFalse(self.utils.is_excluded('aaaa/bbbbb', [], 'aaaa'))
+        self.assertFalse(self.utils.is_excluded('aaaa/bbbbb', ['xxxxx', 'yyyyyy'], 'aaaa'))
+        self.assertTrue(self.utils.is_excluded('aaaa/xxxxx/', ['xxxxx/', 'yyyyyy'], 'aaaa/'))
+        self.assertTrue(self.utils.is_excluded('aaaa/xxxxx/', ['xxxxx', 'yyyyyy'], 'aaaa/'))
+        self.assertTrue(self.utils.is_excluded('aaaa/xxxxx', ['xxxxx/', 'yyyyyy'], 'aaaa/'))
+        self.assertTrue(self.utils.is_excluded('aaaa/xxxxx/', ['xxxxx', 'yyyyyy'], 'aaaa'))
+        self.assertTrue(self.utils.is_excluded('aaaa/xxxxx/yyyyyy', ['xxxxx/yyyyyy'], 'aaaa/'))

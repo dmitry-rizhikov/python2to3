@@ -4,3 +4,4 @@ python2to3:
   exclude:
     - External
     - AutoTestVW/VWAutomatedTesting/WorkspaceEnum/Lib
+    - venv

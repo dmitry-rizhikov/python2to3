@@ -6,28 +6,33 @@ import sys
 class Utils:
     logger = logging.getLogger(__name__)
 
-    def get_subfolders(self, dirname):
+    def get_subfolders(self, dirname, exclude_dirs):
         if os.path.isdir(dirname):
             subfolders = [f.path for f in os.scandir(dirname) if f.is_dir()]
-            for dirname in subfolders:
-                subfolders.extend(self.get_subfolders(dirname))
-                self.logger.info('scanning path %s', dirname)
+            for subfolder in subfolders:
+                if not self.is_excluded(subfolder, exclude_dirs, dirname):
+                    subfolders.extend(self.get_subfolders(subfolder, exclude_dirs))
+                    self.logger.info('scanning path %s', subfolder)
 
             return subfolders
         else:
             logging.info('invalid path %s', dirname)
             return None
+        
+    def is_excluded(self, subfolder, exclude_dirs, dirname):
+        if self.is_not_empty(exclude_dirs):
+            for dir in exclude_dirs:
+                if str(subfolder).replace(dirname, '').lstrip('/').startswith(str(dir).rstrip('/')):
+                    return True
+
+        return False
 
     def add_folders_to_path(self, dirname, exclude_dirs):
-        folders = self.get_subfolders(dirname)
+        folders = self.get_subfolders(dirname, exclude_dirs)
 
         if folders is not None:
             folders.append(dirname)
             for subfolder in list(folders):
-                if self.is_not_empty(exclude_dirs) \
-                        and self.join_path(local_path=subfolder, absolut_path=dirname) in exclude_dirs:
-                    continue
-
                 self.logger.info('appending to system path %s', subfolder)
                 sys.path.append(subfolder)
 

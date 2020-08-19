@@ -42,4 +42,3 @@ if __name__ == '__main__':
     pylint3.run_pylint(dirname=new_path, out_file='pylint3_new.txt', exclude_dirs=config.get_excludes())
 
     diff.diff_files(from_file='pylint2_new.txt', to_file='pylint3_new.txt', out_file='pylint3_diff.txt')
-    

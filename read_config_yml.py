@@ -18,3 +18,9 @@ class Config:
             return self.cfg['exclude']
         except KeyError:
             return None
+
+    def do_clone(self):
+        try:
+            return self.cfg['clone']
+        except KeyError:
+            return False

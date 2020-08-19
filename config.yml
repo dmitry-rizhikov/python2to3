@@ -1,6 +1,7 @@
 
 python2to3:
-  path: /home/dmitry/zeev-stxnet/Tools_new
+  clone: False
+  path: /home/dmitry/zeev-stxnet/Tools-19-08-2020-15-29-11-364437
   exclude:
     - External
     - AutoTestVW/VWAutomatedTesting/WorkspaceEnum/Lib

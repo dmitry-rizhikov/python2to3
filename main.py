@@ -25,7 +25,7 @@ if __name__ == '__main__':
     
     config = Config('config.yml')
 
-    new_path = copy.copy_dir(config.get_path())
+    new_path = copy.copy_dir(config.get_path()) if config.do_clone() else config.get_path()
 
     utils.add_folders_to_path(dirname=new_path, exclude_dirs=config.get_excludes())
 

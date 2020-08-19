@@ -1,4 +1,6 @@
 
 python2to3:
-  path: test/folder
+  path: /home/dmitry/zeev-stxnet/Tools_new
   exclude:
+    - External
+    - AutoTestVW/VWAutomatedTesting/WorkspaceEnum/Lib

@@ -24,3 +24,9 @@ class Config:
             return self.cfg['clone']
         except KeyError:
             return False
+
+    def do_pylint_before_futurize(self):
+        try:
+            return self.cfg['pylint-before-futurize']
+        except KeyError:
+            return True

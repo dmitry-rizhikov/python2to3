@@ -29,7 +29,8 @@ if __name__ == '__main__':
 
     utils.add_folders_to_path(dirname=new_path, exclude_dirs=config.get_excludes())
 
-    pylint2.run_pylint(dirname=new_path, out_file='pylint2_old.txt', exclude_dirs=config.get_excludes())
+    if config.do_pylint_before_futurize():
+        pylint2.run_pylint(dirname=new_path, out_file='pylint2_old.txt', exclude_dirs=config.get_excludes())
 
     futurize.run_futurize(dirname=new_path, out_file='futurize.txt', exclude_dirs=config.get_excludes())
 

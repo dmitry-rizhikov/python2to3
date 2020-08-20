@@ -1,8 +1,6 @@
 
 python2to3:
   clone: False
-  path: /home/dmitry/zeev-stxnet/Tools-19-08-2020-15-29-11-364437
+  pylint-before-futurize: False
+  path: /home/dmitry/zeev-stxnet/Tools_AutoBuild_1108_1740-19-08-2020-17-59-46-484309
   exclude:
-    - External
-    - AutoTestVW/VWAutomatedTesting/WorkspaceEnum/Lib
-    - venv

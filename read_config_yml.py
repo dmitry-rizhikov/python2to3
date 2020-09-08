@@ -30,3 +30,21 @@ class Config:
             return self.cfg['pylint-before-futurize']
         except KeyError:
             return True
+
+    def do_futurize(self):
+        try:
+            return self.cfg['futurize']
+        except KeyError:
+            return True
+
+    def get_replace_src(self):
+        try:
+            return self.cfg['replace-in-files']['src']
+        except KeyError:
+            return None
+
+    def get_replace_dest(self):
+        try:
+            return self.cfg['replace-in-files']['dest']
+        except KeyError:
+            return None

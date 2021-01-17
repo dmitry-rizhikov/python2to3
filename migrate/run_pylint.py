@@ -1,6 +1,6 @@
 import logging
 import subprocess
-from utils import Utils
+from migrate.utils import Utils
 
 
 class Pylint:

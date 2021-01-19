@@ -19,13 +19,13 @@ from migrate.utils import Utils
 
 
 class Test(TestCase):
-    sys.path.append(dirname(__file__))
-
     utils = Utils()
 
-    pylint2 = Pylint('venv2/bin/pylint')
+    cwd = os.getcwd()
 
-    pylint3 = Pylint('venv/bin/pylint')
+    pylint2 = Pylint(cwd + '/venv2/bin/pylint', cwd + '/test/rcfile')
+
+    pylint3 = Pylint(cwd + '/venv/bin/pylint', cwd + '/test/rcfile')
 
     diff = Diff()
 
@@ -91,6 +91,16 @@ class Test(TestCase):
 
         self.assertGreater(os.path.getsize('test/pylint3_diff.txt'), 0)
 
+        self.replacer.replace_string_in_files(dirname=new_path, src='file', dest='replaced')
+
+        self.assertEqual(Path(new_path + '/subfolder1/xxx/file2.py').read_text(), 'replaced2')
+        self.assertEqual(Path(new_path + '/file1.py').read_text(), 'replaced1')
+
+        self.replacer.replace_string_in_files(config.get_path(), config.get_replace_src(), config.get_replace_dest())
+
+        self.assertEqual(Path('test/folder/subfolder1/xxx/file2.py').read_text(), 'file2')
+        self.assertEqual(Path('test/folder/file1.py').read_text(), 'file1')
+
     def test_is_excluded(self):
         self.assertFalse(self.utils.is_excluded('aaaa/bbbbb', None, 'aaaa'))
         self.assertFalse(self.utils.is_excluded('aaaa/bbbbb', [], 'aaaa'))
@@ -100,17 +110,3 @@ class Test(TestCase):
         self.assertTrue(self.utils.is_excluded('aaaa/xxxxx', ['xxxxx/', 'yyyyyy'], 'aaaa/'))
         self.assertTrue(self.utils.is_excluded('aaaa/xxxxx/', ['xxxxx', 'yyyyyy'], 'aaaa'))
         self.assertTrue(self.utils.is_excluded('aaaa/xxxxx/yyyyyy', ['xxxxx/yyyyyy'], 'aaaa/'))
-
-    def test_replace_in_files(self):
-        self.replacer.replace_string_in_files('test/folder', 'file', 'replaced')
-
-        self.assertEqual(Path('test/folder/subfolder1/xxx/file2.py').read_text(), 'replaced2')
-        self.assertEqual(Path('test/folder/file1.py').read_text(), 'replaced1')
-
-    def test_replace_in_files_invalid_arguments(self):
-        config = Config('test/test_config.yml')
-
-        self.replacer.replace_string_in_files(config.get_path(), config.get_replace_src(), config.get_replace_dest())
-
-        self.assertEqual(Path('test/folder/subfolder1/xxx/file2.py').read_text(), 'file2')
-        self.assertEqual(Path('test/folder/file1.py').read_text(), 'file1')

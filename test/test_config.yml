@@ -1,7 +1,10 @@
 
 python2to3:
-  pylint-before-futurize: true
+  pylint-before-futurize: True
   path: test/folder
   exclude:
     - subpath1
     - subpath2
+  replace-in-files:
+    src:
+    dest:

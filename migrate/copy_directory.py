@@ -11,6 +11,6 @@ class Copy:
         timestampStr = dateTimeObj.strftime("-%d-%m-%Y-%H-%M-%S-%f")
 
         dest_path = src_path + timestampStr
-        self.logger.info('clonning to %s', dest_path)
+        self.logger.info('clonning %s to %s',src_path, dest_path)
         copy_tree(src_path, dest_path, preserve_symlinks=1, preserve_mode=0)
         return dest_path

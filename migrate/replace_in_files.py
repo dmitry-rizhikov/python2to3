@@ -8,6 +8,9 @@ class Replacer:
     logger = logging.getLogger(__name__)
 
     def replace_string_in_files(self, dirname, src, dest):
+        if dirname is None and src is None and dest is None:
+            return
+
         if dirname is None or src is None or dest is None:
             self.logger.info('invalid arguments to replace function: path=%s, src=%s, dest=%s', dirname, src, dest)
             return

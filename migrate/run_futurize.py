@@ -1,7 +1,7 @@
 import logging
 import subprocess
 
-from migrate.utils import Utils
+from utils import Utils
 
 
 class Futurize:

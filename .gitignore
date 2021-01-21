@@ -177,3 +177,4 @@ fabric.properties
 !/futurize.txt
 !/pylint3_diff.txt
 !/pylint2_new.txt
+/.stestr/

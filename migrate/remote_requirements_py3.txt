@@ -53,8 +53,8 @@ py2app==0.7.3
 # pyobjc-framework-SystemConfiguration==2.5.1
 # pyobjc-framework-WebKit==2.5.1
 # pyOpenSSL==0.13.1
-pyparsing==2.0.2
-python-dateutil==1.5
+pyparsing==2.1.0
+python-dateutil==2.1
 pytz==2013.7
 s3transfer==0.2.1
 scipy==1.5.2

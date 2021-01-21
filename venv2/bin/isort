@@ -1,4 +1,4 @@
-#!/home/dmitry/python/migrate2to3/venv2/bin/python
+#!/home/dmitry/python/migrate2to3/venv2/bin/python2
 # -*- coding: utf-8 -*-
 import re
 import sys

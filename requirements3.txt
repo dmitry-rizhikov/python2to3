@@ -112,7 +112,7 @@ pytz==2013.7
 pyudev==0.21.0
 pyutil==3.3.0
 pyxdg==0.26
-PyYAML==3.13
+PyYAML==5.4.1
 reportlab==3.5.34
 requests==2.24.0
 requests-unixsocket==0.2.0

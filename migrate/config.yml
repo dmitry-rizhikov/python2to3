@@ -3,10 +3,10 @@ python2to3:
   clone: False
   pylint-before-futurize: True
   futurize: True
-  path: /home/dmitry/zeev-stxnet/ToolsPyMigration_150121/ToolsPyMigration-21-01-2021-13-09-02-476911
+  path: /home/dmitry/zeev/ToolsPyMigration-21-01-2021-13-09-02-476911
   exclude:
-    - .venv
-    - .venv2
+    - venv
+    - venv2
     - .idea
     - Mac
     - External

@@ -180,3 +180,4 @@ fabric.properties
 /.stestr/
 /venv/
 /venv2/
+/test/folder/

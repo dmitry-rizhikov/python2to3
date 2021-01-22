@@ -178,3 +178,5 @@ fabric.properties
 !/pylint3_diff.txt
 !/pylint2_new.txt
 /.stestr/
+/venv/
+/venv2/
